@@ -1,0 +1,7 @@
+Image placeholders used in this build
+
+1. Guide cover or product shot placeholder
+   - Recommended use: white paper cover mockup, dashboard screenshot, or branded device shot
+   - Recommended size: 1200 x 1400 or similar portrait ratio
+
+2. Additional optional image blocks can be added later below the hero or inside the guide section if needed.
